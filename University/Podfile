@@ -8,4 +8,5 @@ pod 'Masonry'
 pod 'ReactiveCocoa' ,'2.1.8'
 pod 'SVProgressHUD'
 pod 'MJExtension'
+pod 'BmobSDK'
 end

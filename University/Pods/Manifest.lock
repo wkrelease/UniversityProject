@@ -14,6 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
+  - BmobSDK (1.7.1)
   - Masonry (1.0.1)
   - MJExtension (3.0.10)
   - MJRefresh (3.1.8)
@@ -30,6 +31,7 @@ PODS:
 
 DEPENDENCIES:
   - AFNetworking
+  - BmobSDK
   - Masonry
   - MJExtension
   - MJRefresh
@@ -39,6 +41,7 @@ DEPENDENCIES:
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BmobSDK: ebc3cb46b90d746f23121e9ea058a3122b85861f
   Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
   MJExtension: d86aacb740c87519d20e3cca55b6fa4be6cc7548
   MJRefresh: d226bbe0b1ec398f426ba1dc99319b4e51182e19
@@ -46,6 +49,6 @@ SPEC CHECKSUMS:
   SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
   SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
 
-PODFILE CHECKSUM: 8ff900bd0fe2fe6947aada441c33ef3461d35aa5
+PODFILE CHECKSUM: c4539fb8b62b1dfe3ef68659211f215bd8a692fd
 
 COCOAPODS: 1.0.0
