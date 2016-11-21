@@ -23,36 +23,6 @@ int8_t const    NAV_HEIGHT_20 = 44;
 
 int8_t const    TAB_HEIGHT = 49;
 
-NSString *const STATUS_BAR_NOTIFICATION_STYLE = @"statusBarNotificationStyle";
-
-NSString *const WECHAT_APP_ID = @"wxba5fa6cb0f51ccb5";
-
-NSString *const WECHAT_APP_SECRET = @"317292cf904bdce05d292c54e04b4b1f";
-
-NSString *const UM_KEY = @"5736e91767e58e0d5d00349e";
-
-NSUInteger const MAX_PHOTO_COUNT = 9;
-
-
-NSString *const HX_APP_KEY = @"kingalpha#icangyu";
-
-NSString *const HX_CLIENT_ID = @"YXA6filEYDeUEeaAq4NzqOF90w";
-
-NSString *const HX_CLIENT_SECRET = @"YXA6yfAbCxIuovfvLulHzbvqqlRymp0";
-
-NSString *const HX_USER_PASSWORD = @"111111";
-
-
-NSString *const YW_APP_KEY = @"23404521";
-NSString *const YW_APP_SECRET = @"8da765dfada472bbdc905146ccba87a5";
-
-
-NSString *const APP_ID = @"1112919065";
-
-NSString *const APP_STORE = @"itms-apps://itunes.apple.com/app/id1112919065";
-
-NSString *const APP_STORE_COMMON = @"itms-apps://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?id=1112919065&onlyLatestVersion=true&pageNumber=0&sortOrdering=1&type=Purple+Software";
-
 #pragma mark - UserInfo
 
 NSString *const kUserInfo_avatar = @"avatar";
