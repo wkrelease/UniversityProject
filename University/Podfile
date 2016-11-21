@@ -1,0 +1,11 @@
+platform :ios,'8.0'
+
+target "University" do
+pod 'MJRefresh'
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'ReactiveCocoa' ,'2.1.8'
+pod 'SVProgressHUD'
+pod 'MJExtension'
+end
